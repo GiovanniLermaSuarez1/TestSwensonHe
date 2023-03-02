@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestSwensonHe</string>
+    <string name="am">9:12 AM</string>
+    <string name="san_francis">San Francisco</string>
+    <string name="tuesday_12_">Tuesday, 12 Apr 2022</string>
+    <string name="f">82.4\u00C2\u00B0F</string>
+    <string name="it_s_a_sunn">It\u00E2\u0080\u0099s a sunny day.</string>
+</resources>
